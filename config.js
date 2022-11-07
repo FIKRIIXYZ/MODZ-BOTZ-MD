@@ -24,25 +24,25 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'MODZ BOTZ'
-global.namaowner = 'KIAN'
+global.namabot = 'Lord Shen'
+global.namaowner = 'Shenn'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6283845409710']
-global.premium = ['6283845409710','6283845409710']
+global.owner = ['6282123019956']
+global.premium = ['6282123019956','6282123019956']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
 global.telkomsel = ['-']
 global.xl = ['-']
-global.indosat = ['+62 838-4540-9710']
+global.indosat = ['-']
 global.tri = ['-']
 global.smartfren = ['-']
 global.gopay = ['-']
 global.dana = ['-']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/Kianganz']
+global.saweria = ['']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
@@ -51,7 +51,7 @@ global.github = 'https://chat.whatsapp.com/HhuZJjEohKrIaclEQ0V3eh'
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
 global.packname = '\n'
-global.author = '⌗MODZ BOTZ @2022 ©BY KIAN +62 857-3296-1136'
+global.author = 'Crete @2022 ©BY Shenn +6282123019956'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
